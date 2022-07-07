@@ -1,0 +1,6 @@
+.idea/
+.parcel-cache/
+.parcelrc
+node_modules
+dist
+*.iml

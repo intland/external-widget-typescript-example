@@ -1,0 +1,13 @@
+{
+  "name": "cb-external-widget-parcel-example",
+  "private": true,
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@intland/cb-widget-api": "^0.1.0",
+    "parcel": "^2.6.2"
+  },
+  "devDependencies": {
+    "parcel-reporter-static-files-copy": "^1.3.4"
+  }
+}
